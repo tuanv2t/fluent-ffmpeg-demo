@@ -1,0 +1,7 @@
+{
+  "name": "fluent-ffmpeg-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
